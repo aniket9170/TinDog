@@ -1,1 +1,4 @@
-TinDog Starting Files
+#TinDog 
+
+hey there! 
+
